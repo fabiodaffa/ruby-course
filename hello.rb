@@ -6,3 +6,7 @@
 
  name = gets.chop
  puts "Hey, #{name}! Nice to meet you!"
+
+if color == "blue"
+    puts "Wow! My favorite color is #{color} also!"
+end
